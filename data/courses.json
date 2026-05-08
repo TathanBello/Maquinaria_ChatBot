@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c1",
+    "title": "Operación segura de excavadoras",
+    "duration": "40 h",
+    "level": "Intermedio",
+    "modality": "Presencial / simulador",
+    "instructor": "Ing. demo",
+    "description": "Procedimientos de arranque, excavación, carga y comunicación en obra.",
+    "priceCOP": 2800000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/161d26/4a7c2e?text=Excavadoras"
+  },
+  {
+    "id": "c2",
+    "title": "Mantenimiento preventivo de bulldozers",
+    "duration": "32 h",
+    "level": "Avanzado",
+    "modality": "Híbrido",
+    "instructor": "Téc. demo",
+    "description": "Fluidos, orugas, sistema de dirección y ajustes de hoja.",
+    "priceCOP": 3200000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/0f1419/0369a1?text=Bulldozer"
+  },
+  {
+    "id": "c3",
+    "title": "Hidráulica aplicada a maquinaria pesada",
+    "duration": "48 h",
+    "level": "Intermedio",
+    "modality": "Presencial",
+    "instructor": "Ing. demo",
+    "description": "Esquemas, válvulas, caudales y diagnóstico básico de fugas.",
+    "priceCOP": 3600000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/1c2530/0ea5e9?text=Hidr%C3%A1ulica"
+  },
+  {
+    "id": "c4",
+    "title": "Lectura de planos de movimiento de tierras",
+    "duration": "24 h",
+    "level": "Básico",
+    "modality": "Virtual",
+    "instructor": "Arq. demo",
+    "description": "Curvas de nivel, plataformas, cortes y rellenos.",
+    "priceCOP": 1500000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/161d26/4a7c2e?text=Planos"
+  },
+  {
+    "id": "c5",
+    "title": "Grúas: izaje y señalización",
+    "duration": "36 h",
+    "level": "Intermedio",
+    "modality": "Presencial",
+    "instructor": "Ing. demo",
+    "description": "Cálculo preliminar de cargas, radios y roles en obra.",
+    "priceCOP": 4100000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/0f1419/0369a1?text=Gr%C3%BAas"
+  },
+  {
+    "id": "c6",
+    "title": "Electrónica y sensores en equipos CE",
+    "duration": "28 h",
+    "level": "Avanzado",
+    "modality": "Laboratorio",
+    "instructor": "Ing. demo",
+    "description": "ECM, códigos de falla y buenas prácticas de medición.",
+    "priceCOP": 3900000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/1c2530/0ea5e9?text=Electr%C3%B3nica"
+  },
+  {
+    "id": "c7",
+    "title": "Compactación y control de calidad",
+    "duration": "20 h",
+    "level": "Básico",
+    "modality": "Campo",
+    "instructor": "Téc. demo",
+    "description": "Ensayos, humedad óptima y trazabilidad de capas.",
+    "priceCOP": 1800000,
+    "certification": "HeavyAI — asistencia",
+    "image": "https://placehold.co/600x375/161d26/4a7c2e?text=Compactaci%C3%B3n"
+  }
+]

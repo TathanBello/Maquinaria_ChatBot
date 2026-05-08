@@ -1,0 +1,16 @@
+[
+  {
+    "id": "i1",
+    "name": "Ing. Demo López",
+    "specialty": "Operación y productividad",
+    "experience": "12 años",
+    "skills": ["Excavadoras", "Planificación de ciclo", "Seguridad"]
+  },
+  {
+    "id": "i2",
+    "name": "Téc. Demo Ruiz",
+    "specialty": "Mantenimiento de flota",
+    "experience": "9 años",
+    "skills": ["Hidráulica", "Diagnóstico", "Lubricación"]
+  }
+]

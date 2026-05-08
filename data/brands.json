@@ -1,0 +1,10 @@
+[
+  { "id": "cat", "name": "Caterpillar", "country": "EE.UU.", "summary": "Líder global en equipos de construcción y minería." },
+  { "id": "kom", "name": "Komatsu", "country": "Japón", "summary": "Hidráulica, minería y soluciones digitales Smart Construction." },
+  { "id": "jd", "name": "John Deere", "country": "EE.UU.", "summary": "Maquinaria amarilla y sistemas de precisión." },
+  { "id": "vol", "name": "Volvo CE", "country": "Suecia", "summary": "Electricación y seguridad en obra." },
+  { "id": "hit", "name": "Hitachi", "country": "Japón", "summary": "Excavadoras y soluciones para infraestructura." },
+  { "id": "hyc", "name": "Hyundai Construction", "country": "Corea del Sur", "summary": "Gama amplia para construcción y canteras." },
+  { "id": "cas", "name": "CASE", "country": "EE.UU.", "summary": "Retroexcavadoras y tractores de construcción." },
+  { "id": "jcb", "name": "JCB", "country": "Reino Unido", "summary": "Innovación en retro y manipuladores telescópicos." }
+]

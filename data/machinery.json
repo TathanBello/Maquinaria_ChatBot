@@ -1,0 +1,90 @@
+[
+  {
+    "id": "exc-01",
+    "name": "Excavadora hidráulica 20 t",
+    "type": "Excavadora",
+    "weight": "19.800 kg",
+    "power": "120 kW",
+    "summary": "Ideal para movimiento de tierra en obra civil y minería superficial.",
+    "priceCOP": 485000000,
+    "tags": ["Oruga", "Cucharón 0.9 m³"],
+    "image": "https://placehold.co/600x375/1c2530/4a7c2e?text=Excavadora"
+  },
+  {
+    "id": "ret-01",
+    "name": "Retroexcavadora 4×4",
+    "type": "Retroexcavadora",
+    "weight": "8.200 kg",
+    "power": "74 kW",
+    "summary": "Versátil para zanjas, urbanismo y mantenimiento vial.",
+    "priceCOP": 198000000,
+    "tags": ["Articulada", "Pala frontal"],
+    "image": "https://placehold.co/600x375/1c2530/0369a1?text=Retroexcavadora"
+  },
+  {
+    "id": "bul-01",
+    "name": "Bulldozer oruga mediano",
+    "type": "Bulldozer",
+    "weight": "22.500 kg",
+    "power": "180 kW",
+    "summary": "Empuje alto para explanación y acarreo corto.",
+    "priceCOP": 920000000,
+    "tags": ["Hoja angulable", "Ripper"],
+    "image": "https://placehold.co/600x375/161d26/0ea5e9?text=Bulldozer"
+  },
+  {
+    "id": "mot-01",
+    "name": "Motoniveladora 15 t",
+    "type": "Motoniveladora",
+    "weight": "15.100 kg",
+    "power": "150 kW",
+    "summary": "Perfilado y terminación de capas granulares.",
+    "priceCOP": 610000000,
+    "tags": ["Moldboard", "SCM"],
+    "image": "https://placehold.co/600x375/0f1419/4a7c2e?text=Motoniveladora"
+  },
+  {
+    "id": "car-01",
+    "name": "Cargador frontal 3.5 m³",
+    "type": "Cargador frontal",
+    "weight": "18.900 kg",
+    "power": "190 kW",
+    "summary": "Carga de agregados y alimentación de plantas.",
+    "priceCOP": 550000000,
+    "tags": ["Alto volteo", "Joystick"],
+    "image": "https://placehold.co/600x375/1c2530/4a7c2e?text=Cargador"
+  },
+  {
+    "id": "gru-01",
+    "name": "Grúa hidráulica todo terreno 80 t",
+    "type": "Grúa hidráulica",
+    "weight": "54.000 kg",
+    "power": "420 kW",
+    "summary": "Izaje industrial y montaje de estructuras pesadas.",
+    "priceCOP": 2100000000,
+    "tags": ["5 secciones", "Contrapeso modular"],
+    "image": "https://placehold.co/600x375/161d26/0369a1?text=Gr%C3%BAa"
+  },
+  {
+    "id": "vib-01",
+    "name": "Vibrocompactador 12 t",
+    "type": "Vibrocompactador",
+    "weight": "12.400 kg",
+    "power": "95 kW",
+    "summary": "Compactación de subbases y bases granulares.",
+    "priceCOP": 285000000,
+    "tags": ["Rodillo liso", "Vibración"],
+    "image": "https://placehold.co/600x375/0f1419/0ea5e9?text=Vibro"
+  },
+  {
+    "id": "min-01",
+    "name": "Minicargador compacto",
+    "type": "Minicargador",
+    "weight": "3.450 kg",
+    "power": "55 kW",
+    "summary": "Obra interior, paisajismo y espacios reducidos.",
+    "priceCOP": 125000000,
+    "tags": ["Cuchón universal", "Bajo perfil"],
+    "image": "https://placehold.co/600x375/1c2530/4a7c2e?text=Minicargador"
+  }
+]

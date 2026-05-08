@@ -1,0 +1,6 @@
+[
+  { "year": "1950s", "title": "Primeros programas simbólicos", "detail": "Investigación en razonamiento automático." },
+  { "year": "1980s", "title": "Sistemas expertos", "detail": "Reglas y conocimiento aplicado a diagnóstico industrial." },
+  { "year": "2010s", "title": "Deep learning", "detail": "Visión por computador y señales en entornos industriales." },
+  { "year": "2020s", "title": "Modelos generativos", "detail": "Asistentes y copilotos para documentación técnica." }
+]
