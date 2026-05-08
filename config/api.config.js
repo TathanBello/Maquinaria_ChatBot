@@ -13,7 +13,7 @@ let fromLocalFile = '';
 try {
   const mod = await import(new URL('./api.config.local.js', import.meta.url));
   const k = mod.GEMINI_API_KEY;
-  if (typeof k === 'string' && k && k !== 'your_api_key_here') {
+  if (typeof k === 'string' && k && k !== 'AIzaSyB3MriKCR4qz9NRz6kA5VmuwRUrQe2Lqu8') {
     fromLocalFile = k;
   }
 } catch {
@@ -21,6 +21,6 @@ try {
 }
 
 /** Sustituye solo si no usas __ENV__ ni api.config.local.js */
-const FALLBACK_KEY = 'your_api_key_here';
+const FALLBACK_KEY = 'AIzaSyB3MriKCR4qz9NRz6kA5VmuwRUrQe2Lqu8';
 
 export const GEMINI_API_KEY = fromWindow || fromLocalFile || FALLBACK_KEY;
